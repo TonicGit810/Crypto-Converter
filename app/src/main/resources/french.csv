@@ -1,0 +1,44 @@
+apiError,Erreur lors de l'obtention des donn¨¦es de l'API !
+addCurrency,Ajouter une devise
+add,ajouter
+name,Nom
+symbol,Symbole
+logo,logo
+description,La description
+date,Date de lancement
+website,site Internet
+remove,retirer
+yes,oui
+no,non
+exist,La devise existe d¨¦j¨¤ dans la base de donn¨¦es. Voulez-vous demander de nouvelles donn¨¦es ou non ?
+dbError,Erreur lors du chargement depuis le cache
+Convert From: ,Convertir ¨¤ partir de?:
+Amount: ,Montante:
+to,Convertir en:
+rate,Le taux de conversion est?:
+result,Le r¨¦sultat de la conversion est :
+convert,convertir
+send,envoyer
+lackData,Vous n'avez pas assez de donn¨¦es pour envoyer un message !
+empty,bo?te vide
+request,Erreur lors de la demande de conversion
+null,Le r¨¦sultat de la conversion est?: nul
+range,Le montant ne peut pas ¨ºtre inf¨¦rieur ¨¤ 1e-8 ou sup¨¦rieur ¨¤ 1000000000000
+type,Le montant doit ¨ºtre un nombre
+aempty,Le montant ne peut pas ¨ºtre vide !
+clearlist,effacer la liste
+clearcache,vider le cache
+about,sur
+noData,pas de donn¨¦es
+appName,App Name
+author,Author
+reference,Reference
+input,API d'entr¨¦e:
+output,API de sortie:
+splash,¨¦cran de d¨¦marrage:
+error,image d'erreur:
+twiliobuild, Twilo demande le code de construction:
+sql,Code SQL:
+http, Code de connexion HTTP:
+messageE,Erreur lors de l'envoi du message !
+alert,alerte

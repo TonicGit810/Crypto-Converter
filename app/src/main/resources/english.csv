@@ -1,0 +1,44 @@
+apiError,Error when getting data from API!
+addCurrency,Add Currency
+add,add
+name,Name
+symbol,Symbol
+logo,Logo
+description,Description
+date,Launch Date
+website,Website
+remove,Remove
+yes,yes
+no,no
+exist,The currency is already existed in the database. Do you want to request new data or not?
+dbError,Error when Loading from Cache
+Convert From: ,Convert From:
+Amount: ,Amount:
+to,Convert To:
+rate,Conversion rate is:
+result,Conversion result is:
+convert,Convert
+send,Send
+lackData,Do not have enough data to send message! Or you try to send same message twice.
+empty,Must select a crypto currency!
+request,Error when make convert request
+null,Conversion result is: null
+range,Amount cannot be less then 1e-8 or greater than 1000000000000
+type,Amount must be number
+aempty,Amount cannot be empty!
+clearlist,Clear List
+clearcache,Clear Cache
+about,About
+noData,No Data
+appName,App Name
+author,Author
+reference,Reference
+input,Input API:
+output,Output API:mo
+splash,Splash Screen:
+error,Error Picture:
+twiliobuild,Twilo request build code:
+sql,SQL Code:
+http,HTTP Connection Code:
+messageE,Error when sending message!
+alert,alert
