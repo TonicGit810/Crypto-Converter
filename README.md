@@ -65,3 +65,30 @@ To run the application with different API modes, use the following command:
 
 ```bash
 gradle run --args="input_mode output_mode"
+
+Replace input_mode and output_mode with either offline or online. For example:
+To use the dummy input API and live output API:
+```bash
+gradle run --args="offline online"
+
+To use the live input API and dummy output API:
+```bash
+gradle run --args="online offline"
+
+## Dependencies
+
+- **JavaFX**: For building the graphical user interface.
+- **CoinMarketCap API**: To retrieve the list of active cryptocurrencies and their information.
+- **Twilio API**: For sending SMS reports.
+
+## Installation
+
+1. Clone the repository to your local machine.
+2. Ensure you have Java and JavaFX installed.
+3. Install Twilio and configure it with your account SID and authentication token.
+4. Configure the phone number to receive SMS reports.
+5. Run the application using your preferred Java IDE or command line.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit pull requests for any improvements or bug fixes.
