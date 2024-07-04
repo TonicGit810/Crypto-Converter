@@ -65,15 +65,18 @@ To run the application with different API modes, use the following command:
 
 ```bash
 gradle run --args="input_mode output_mode"
+```
 
 Replace input_mode and output_mode with either offline or online. For example:
 To use the dummy input API and live output API:
 ```bash
 gradle run --args="offline online"
+```
 
 To use the live input API and dummy output API:
 ```bash
 gradle run --args="online offline"
+```
 
 ## Dependencies
 
