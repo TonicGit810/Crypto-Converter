@@ -17,8 +17,6 @@ This application provides a graphical user interface (GUI) for managing and conv
 - **Currency Conversion**: Users can input an amount of a given currency, select a target currency, and view the conversion rate and result.
 - **Manage List**: Users can clear the entire list or remove individual currencies from the list.
 - **Report Generation**: The application provides two types of reports for conversions:
-  - **Long Form Report**: Includes all main-window information about the two selected currencies, conversion rate, starting value, and finishing value.
-  - **Short Form Report**: Includes only the selection-window information (name and symbol) about the two selected currencies, conversion rate, starting value, and finishing value.
   - **SMS Report**: Send a 'short' form report to a single configured phone number using Twilio.
 
 ## Caching
